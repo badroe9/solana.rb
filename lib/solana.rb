@@ -4,5 +4,6 @@ require_relative "solana/version"
 
 module Solana
   class Error < StandardError; end
-  # Your code goes here...
+
+  raise "Placeholder"
 end
